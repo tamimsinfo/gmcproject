@@ -1,5 +1,3 @@
-# gmcproject
-It's a Google Merchant Center Portfolio. I am displaying my completed project in here.
 <h1 align="center">Hi 👋, I'm Arman Tamim</h1>
 <h3 align="center">A Professional Digital Marketer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
